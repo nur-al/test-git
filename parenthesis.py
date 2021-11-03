@@ -14,3 +14,5 @@ def valid_parenthesis(string):
 		return True
 	else:
 		return False
+
+print('изменение для теста git')
